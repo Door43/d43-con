@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[con:home|Door43 (con)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-con|d43-con repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-con/archive/master.zip|d43-con.zip]]
+
+**Recent Changes**
+{{changes>ns = con}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/con|Ethnologue data]]
+
